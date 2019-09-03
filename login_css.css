@@ -1,0 +1,37 @@
+.box{
+	width: 250px;
+	padding: 50px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: white;
+	text-align: center;
+}.regis{
+	font-size: 15px;
+}.regis2{
+	width: 350px;
+	padding: 50px;
+	top: 50%;
+	left: 50%;
+	background: grey;
+	text-align: left;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	border-radius: 20px;
+}
+.masuk{
+	width: 175px;
+	height: 28px;
+	margin-left: 35px; 
+	padding-top: 10px;
+	margin-bottom: 30px;
+	text-decoration: none;
+	border-radius: 20px;
+	background-color: grey;
+}
+
+.masuk a{
+	text-decoration: none;
+	color: #fff;
+}
